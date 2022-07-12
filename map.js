@@ -1,4 +1,13 @@
-// Map sem usar thisArgs
+// Map, Filter e Reduce
+// Este repositório contém a atividade prática do Curso "Map, Filter e Reduce", que faz parte do Basecamp de Javascript que minstrei pela Digital Innovation One.
+
+// Atividades
+// **Filter
+// Filtre e retorne todos os números pares de um array.
+
+
+
+// // Map sem usar thisArgs
 
 const meuArr = [1 , 3 , 5 , 7];
 
