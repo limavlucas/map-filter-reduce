@@ -1,10 +1,10 @@
-// function somaNumeros(arr){
-//     return arr.reduce((anterior, atual) => anterior + atual);
-// }
+function somaNumeros(arr){
+    return arr.reduce((anterior, atual) => anterior + atual);
+}
 
-// const meuArr = [0,1,2,3,4]; 
+const meuArr = [0,1,2,3,4]; 
 
-// console.log(somaNumeros(meuArr));
+console.log(somaNumeros(meuArr));
 
 // lista de compras com reduce
 
